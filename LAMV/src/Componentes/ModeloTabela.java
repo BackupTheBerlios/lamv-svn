@@ -1,14 +1,13 @@
 /*
  * ModeloTabela.java
  *
- * Created on 2 de Março de 2005, 23:54
+ * Created on 2 de Marï¿½o de 2005, 23:54
  */
 
 package Componentes;
 
 import javax.swing.table.DefaultTableModel;
 import Dados.*;
-import javax.swing.ImageIcon;
 
 /**
  *
